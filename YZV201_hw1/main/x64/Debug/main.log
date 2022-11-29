@@ -1,0 +1,7 @@
+﻿  WordList.cpp
+C:\Users\omerfarukaydin\source\repos\YZV201_hw1\main\WordList.cpp(36,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\omerfarukaydin\source\repos\YZV201_hw1\main\WordList.cpp(37,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+C:\Users\omerfarukaydin\source\repos\YZV201_hw1\main\main.cpp(16,9): warning C4101: 'num_of_suggestions': unreferenced local variable
+  Generating Code...
+  main.vcxproj -> C:\Users\omerfarukaydin\source\repos\YZV201_hw1\x64\Debug\main.exe
